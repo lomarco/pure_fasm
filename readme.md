@@ -1,5 +1,5 @@
-# flat assembler 1 - reconstructed source history
+# pure flat assembler
 
-This is an official repository of the source code of flat assembler (fasm). The history going back to 1999 has been reconstructed from the preserved snapshots.
+This repository is a streamlined version of the FASM (Flat Assembler) project, focused exclusively on Linux x86_64 code. 
 
-For binary releases, please visit the official website: http://flatassembler.net/
+The goal is to remove any non-Linux x86_64 code from the original FASM source, enabling quick assembly and easier understanding of the assembler's inner workings on this platform.
